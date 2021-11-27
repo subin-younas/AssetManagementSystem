@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManagement", "AssetManagement.csproj", "{CA042360-3A72-40D4-BE18-16615E036411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA042360-3A72-40D4-BE18-16615E036411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA042360-3A72-40D4-BE18-16615E036411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA042360-3A72-40D4-BE18-16615E036411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA042360-3A72-40D4-BE18-16615E036411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4841F53D-ABA7-401D-BA70-BC6963BBD293}
+	EndGlobalSection
+EndGlobal
